@@ -1,3 +1,53 @@
-0002d826c5404fa88a45b2b1c79a5caa
-000266506ab44ad4a26dcc2d1953a607
-0002fcd3fa4a47a39e07f3ae6900b14c
+{
+    "helena_bot": true,
+    "data": [
+        {
+            "server_ids": [
+                15037452,
+                15046461,
+                15037431,
+                15046443
+            ],
+            "bans": [],
+            "admins": [
+                {
+                    "eos_id": "000266506ab44ad4a26dcc2d1953a607",
+                    "gcm": 1
+                },
+                {
+                    "eos_id": "00025a20c862413980b7b0f59b94f5cf",
+                    "gcm": 1
+                },
+                {
+                    "eos_id": "000266ab26224c5fa399cb2a16de6b85",
+                    "gcm": 1
+                },
+                {
+                    "eos_id": "00020d9137e043f2b6cc11d114facd37",
+                    "gcm": 1
+                },
+                {
+                    "eos_id": "0002fcd3fa4a47a39e07f3ae6900b14c",
+                    "gcm": 0
+                },
+                {
+                    "eos_id": "0002d826c5404fa88a45b2b1c79a5caa",
+                    "gcm": 1
+                }
+            ],
+            "loot_boxes": []
+        },
+        {
+            "server_ids": [],
+            "bans": [],
+            "admins": [],
+            "loot_boxes": []
+        },
+        {
+            "server_ids": [],
+            "bans": [],
+            "admins": [],
+            "loot_boxes": []
+        }
+    ]
+}

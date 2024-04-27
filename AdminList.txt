@@ -35,7 +35,7 @@
                 },
                 {
                     "eos_id": "00027ae7dc2945b0b749a9036d65fac1",
-                    "gcm": 0
+                    "gcm": 1
                 }
             ],
             "loot_boxes": []

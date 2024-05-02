@@ -28,10 +28,6 @@
                     "gcm": 1
                 },
                 {
-                    "eos_id": "0002fcd3fa4a47a39e07f3ae6900b14c",
-                    "gcm": 0
-                },
-                {
                     "eos_id": "0002d826c5404fa88a45b2b1c79a5caa",
                     "gcm": 1
                 },
